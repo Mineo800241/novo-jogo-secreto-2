@@ -1,0 +1,4 @@
+git branch -m main maxwell
+git fetch origin
+git branch -u origin/maxwell maxwell
+git remote set-head origin -a
