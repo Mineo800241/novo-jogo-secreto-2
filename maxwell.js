@@ -3,3 +3,4 @@
 // quer ver? 
 // vamos mudar aqui mas só funciona no git terminal
 // fazendo um novo teste
+// agora consegui resolver esse bo!
